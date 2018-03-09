@@ -7,8 +7,8 @@
 
     <artifactId>spring-boot-web-mustache</artifactId>
     <packaging>jar</packaging>
-    <name>Spring Boot Web Mustache Example</name>
-    <description>Spring Boot Web Mustache Example</description>
+    <name>Spring Boot Web Mustache</name>
+    <description>Spring Boot Web Mustache</description>
     <url>https://www.mkyong.com</url>
     <version>1.0</version>
 
