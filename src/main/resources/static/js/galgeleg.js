@@ -26,7 +26,7 @@ $(document).ready(function () {
         {
             data.json().then(function (json) {
                 if (json.brugerGodkendt === false)
-                    document.location.href = "index.html";
+                    window.location = "/index";
 
             });
         }

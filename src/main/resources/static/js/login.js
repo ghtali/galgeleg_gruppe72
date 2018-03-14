@@ -29,7 +29,7 @@ $(document).ready(function () {
                     {
                         localStorage.setItem("username", user);
                         localStorage.setItem("password", pass);
-                        document.location.href = "galgeleg";
+                        window.location = "/galgeleg";
 
                     } else if (json.brugerGodkendt === false)
                     {
