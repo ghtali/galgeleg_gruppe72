@@ -22,6 +22,14 @@ public class WelcomeController {
         model.put("message", MESSAGE);
         return "welcome";
     }
+    @RequestMapping("index")
+    public String index(){
+        return "index";
+    }
+    @RequestMapping("galgeleg")
+    public String galgeleg(){
+        return "galgeleg";
+    }
 
      //test 5xx errors
     @RequestMapping("/5xx")

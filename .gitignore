@@ -11,40 +11,8 @@ nb-configuration\.xml
 
 *.iml
 
-target/classes/application\.properties
+target/*
 
-target/classes/com/galgeleg/SpringBootWebApplication\.class
 
-target/classes/com/galgeleg/WelcomeController\.class
+lib/*
 
-target/classes/static/css/main\.css
-
-target/classes/templates/error\.html
-
-target/classes/templates/error/5xx\.html
-
-target/classes/templates/layout/footer\.html
-
-target/classes/templates/layout/header\.html
-
-target/classes/templates/welcome\.html
-
-target/maven-archiver/pom\.properties
-
-target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles\.lst
-
-target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles\.lst
-
-target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles\.lst
-
-target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles\.lst
-
-target/spring-boot-web-mustache-1\.0\.jar
-
-target/spring-boot-web-mustache-1\.0\.jar\.original
-
-target/surefire-reports/com\.galgeleg\.MustacheApplicationTests\.txt
-
-target/surefire-reports/TEST-com\.galgeleg\.MustacheApplicationTests\.xml
-
-target/test-classes/com/galgeleg/MustacheApplicationTests\.class
